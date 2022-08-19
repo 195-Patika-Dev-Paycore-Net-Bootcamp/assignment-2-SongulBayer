@@ -1,7 +1,7 @@
 # Homework-2 : Staff REST API
 ## Staff class created.Using this class, 1 controller was added, 5 http methods were written.(Get,GetById,Put,Delete,Post) 
 ### Screenshots for HttpGet Method
-![Ekran Görüntüsü (592)](https://user-images.githubusercontent.com/63016233/185694544-868d1748-63d0-45f2-af5b-e6bdc6125c4a.png)
+![Ekran Görüntüsü (585)](https://user-images.githubusercontent.com/63016233/185698698-8161b088-a839-443c-9bb0-65c24ccf3721.png)
 ### Screenshots for [HttpGet("{id}")] Method
 ![Ekran Görüntüsü (588)](https://user-images.githubusercontent.com/63016233/185695021-09cbfbbe-f785-4aa1-aeb6-eacbb0e553e6.png)
 ### Screenshots for [HttpPost] Method
