@@ -7,6 +7,7 @@
 ### Screenshot for [HttpPost] Method
 ![Ekran Görüntüsü (586)](https://user-images.githubusercontent.com/63016233/185696510-79f7e0e9-d003-4b70-833b-b3cbfc5e7be8.png)
 #### Validations are checked
+#### Fluent validation was used to control the validations.
 ![Ekran Görüntüsü (587)](https://user-images.githubusercontent.com/63016233/185696749-7e649590-0802-4c3b-9608-37fbe6521aee.png)
 ### Screenshot for [HttpPut] Method
 ![Ekran Görüntüsü (589)](https://user-images.githubusercontent.com/63016233/185697207-cfc13e16-880c-4252-93c8-31dc9b87fd4f.png)
