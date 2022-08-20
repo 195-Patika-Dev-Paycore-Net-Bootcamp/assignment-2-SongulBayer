@@ -21,7 +21,7 @@ namespace Assignments.ValidationRules
             RuleFor(x => x.PhoneNumber).NotEmpty().WithMessage("This field cannot be  empty");
             RuleFor(x => x.PhoneNumber).Matches(@"^([\+]?90[-]?|[0])?[1-9][0-9]{8}$").WithMessage("Invalid Phone Number");
             RuleFor(x => x.Email).NotEmpty().WithMessage("This field cannot be  empty");
-            RuleFor(x => x.Email).EmailAddress().Matches(@"[a-zA-Z_\-.]").WithMessage("Invalid Format");
+            RuleFor(x => x.Email).EmailAddress().Matches(@"^[a-zA-Z\.@]{2,100}$").WithMessage("Invalid Format");
         }
     }
 }
