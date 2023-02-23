@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BOol20psuYRr0YHSVNSu4FUObZdN4eGuRpre/s2dBbYKs9pfD/7AyONBAQ4c0PudGSwcKmZeJIPCq8qOUW39aw==",
+  "dgSpecHash": "eyIYULIHdzMttfGucFygs2mBiWE/IYCTe4XD2wHY5c9vhsYRVHriE90m6lk0IVKKIF4r/86/9/Pdk2oewGpQGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\songül bayer\\source\\repos\\Assignments\\Assignments.csproj",
+  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\assignment-2-snglbyrr8\\Assignments02\\Assignments.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\songül bayer\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\songül bayer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

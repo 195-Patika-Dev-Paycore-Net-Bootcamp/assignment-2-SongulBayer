@@ -35,7 +35,7 @@ namespace Assignments.Controllers
                 Salary=3500
             },new Staff //Object added manually
             {
-                Id=3,
+                Id=4,
                 Name="Rach",
                 LastName="Geller",
                 DateOfBirth=new DateTime(1970,09,06),
